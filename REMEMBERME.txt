@@ -1,0 +1,1 @@
+для мультиплеера будет добавлен протокол SLYD - Server Lookup bY Domain 
