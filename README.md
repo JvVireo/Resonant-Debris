@@ -13,3 +13,8 @@ there are requrements for resonant debris:
 - **GPU: any(including built-in in CPU)**
 - **OS:** Windows 7 Update 1( but if not the Oracle, it can be started on Windows XP)
 - **Hard disk drive space**:500 + 32 = 532mb
+### Opening
+After building 4, the game opens in a special way. Follow the steps below:
+1. unzip the downloaded file
+2. find the **start.bat** or **startwithnoutconsole.bat** file
+3. click on it 2 times
